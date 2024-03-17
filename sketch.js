@@ -16,7 +16,7 @@ function makeStars1(){
   noStroke()
   //introducing alpha values
   fill(255, 255, 255, 90);
-  circle(random(0, 700), random(0, 700), random(0, 4));
+  circle(random(0, 400), random(0, 400), random(0, 4));
   counter1++;
   if (counter1 > 50){
     clearInterval(countInterval1);
@@ -30,7 +30,7 @@ function makeStars1(){
 function makeStars2(){
   noStroke()
   fill(255, 255, 255, 150);
-  circle(random(0, 700), random(0, 700), random(0, 6));
+  circle(random(0, 400), random(0, 400), random(0, 6));
   counter2++;
   if (counter2 > 50){
     clearInterval(countInterval2);
@@ -44,7 +44,7 @@ function makeStars2(){
 function makeStars3(){
   noStroke()
   fill(255, 255, 255);
-  circle(random(0, 700), random(0, 700), random(0, 4));
+  circle(random(0, 400), random(0, 400), random(0, 4));
   counter3++;
   if (counter3 > 50){
     clearInterval(countInterval3);
