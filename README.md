@@ -2,7 +2,7 @@
 **** 
 WS2 Project - Stars 
 
->
+> https://nech691.github.io/WorkShop_2/
 
 ## Tasks 
 
@@ -99,6 +99,6 @@ WS2 Project - Stars
 
 ## Project 
 
-* I created a night sky that slowly filled with stars for my third workshop project. I used VSCodium to make this sketch, as well as the *setInterval* function and newly created functions that I called back to later in the code. I also experimented with *alpha values* in the *fill()* function. Finally, I also explored the *mousePressed* function. 
+* I created a night sky that slowly filled with stars for my third workshop project. I used VSCodium to make this sketch, as well as the *setInterval* function and newly created functions that I called back to later in the code. I also experimented with *alpha values* in the *fill()* function. Finally, I also explored the *mousePressed* function, so the more you click, the faster the sky fills with stars.
 				
 
