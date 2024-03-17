@@ -95,6 +95,10 @@ WS2 Project - Stars
         * Settings > pages > branches > none -> main > save
         * Copy URL into README file
       * You can also download repositories from GitHub
-        * Click on repository > green code button > download file as zip 
+        * Click on repository > green code button > download file as zip
+
+## Project 
+
+* I created a night sky that slowly filled with stars for my third workshop project. I used VSCodium to make this sketch, as well as the *setInterval* function and newly created functions that I called back to later in the code. I also experimented with *alpha values* in the *fill()* function. Finally, I also explored the *mousePressed* function. 
 				
 
