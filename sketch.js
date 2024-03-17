@@ -6,7 +6,7 @@ let countInterval2 = setInterval(makeStars2, 1000);
 let countInterval3 = setInterval(makeStars3, 1200);
 
 function setup() {
-  createCanvas(700, 700);
+  createCanvas(400, 400);
   background(4, 9, 45);
 }
 
